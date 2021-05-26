@@ -32,8 +32,8 @@ The ratings file has 4 features in it :-
 
 # Results:
 
-* most watched movies recommdations
-* most rated movies recommdations
-* Recommdations based on genres
-* Recommdations of movies correlated to each other
-* Recommdations of movies watched by common users
+* most watched movies recommendations
+* most rated movies recommendations
+* Recommendations based on genres
+* Recommendations of movies correlated to each other
+* Recommendations of movies watched by common users
